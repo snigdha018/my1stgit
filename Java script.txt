@@ -1,0 +1,6 @@
+let day='Monday'
+let splitday= day.split("n")
+//console.log(splitday)
+let splitday1= day.slice(0,4)
+//console.log(splitday1)
+console.log(splitday[0 ])
